@@ -53,7 +53,7 @@
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Deyvidy-ALves&label=Profile+Views&color=blueviolet&style=flat" alt="Deyvidy-ALves visitors counter" />
+    <img src="https://komarev.com/ghpvc/?username=Deyvidy-ALves&label=Profile+Views&color=red&style=flat" alt="Deyvidy-ALves visitors counter" />
   </p>
   <br>
 </div>
