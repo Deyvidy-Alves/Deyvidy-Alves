@@ -45,61 +45,18 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-  <h3 style="font-family: 'Segoe UI', sans-serif; font-weight: 600; color: #2f2f2f; margin-bottom: 8px;">👨‍💻 Profile Views</h3>
-  <div style="background: rgba(255, 255, 255, 0.2); 
-              backdrop-filter: blur(8px);
-              border-radius: 12px;
-              padding: 12px 20px;
-              display: inline-flex;
-              align-items: center;
-              gap: 8px;
-              box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-              border: 1px solid rgba(255, 255, 255, 0.3);
-              animation: fadeIn 1s ease-out;">
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4Z" stroke="#6B46C1" stroke-width="2"/>
-      <path d="M12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8Z" stroke="#6B46C1" stroke-width="2"/>
-      <path d="M12 12C13.1046 12 14 11.1046 14 10C14 8.89543 13.1046 8 12 8C10.8954 8 10 8.89543 10 10C10 11.1046 10.8954 12 12 12Z" fill="#6B46C1"/>
-    </svg>
-    <span style="font-family: 'Segoe UI', sans-serif; 
-                font-size: 18px;
-                font-weight: 700;
-                background: linear-gradient(to right, #6B46C1, #8858E9);
-                -webkit-background-clip: text;
-                -webkit-text-fill-color: transparent;
-                text-shadow: 0 2px 4px rgba(107, 70, 193, 0.2);"
-          id="view-counter">Loading...</span>
-  </div>
-</div>
 
-<script>
-  // Atualização dinâmica do contador via API
-  fetch('https://hits.dwyl.com/Deyvidy-ALves/Deyvidy-ALves.json')
-    .then(response => response.json())
-    .then(data => {
-      const counterElement = document.getElementById('view-counter');
-      counterElement.textContent = data.total.toLocaleString();
-      
-      // Efeito de contagem animada
-      let count = 0;
-      const target = data.total;
-      const duration = 1500;
-      const step = target/(duration/16);
-      
-      const interval = setInterval(() => {
-        count += step;
-        if(count >= target) {
-          count = target;
-          clearInterval(interval);
-        }
-        counterElement.textContent = Math.floor(count).toLocaleString();
-      }, 16);
-    })
-    .catch(() => {
-      document.getElementById('view-counter').textContent = "1K+";
-    });
-</script>
+
+9 lines
+
+<div align="center">
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Deyvidy-ALves&label=Profile+Views&color=blueviolet&style=flat" alt="Deyvidy-ALves visitors counter" />
+  </p>
+  <br>
+</div>
 
 
 
