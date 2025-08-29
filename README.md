@@ -16,7 +16,6 @@
 
 ## Libraries & Frameworks
 
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=spring&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![Hibernate](https://img.shields.io/badge/Hibernate-FFFFFF?style=for-the-badge&logo=hibernate&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![Maven](https://img.shields.io/badge/Maven-FFFFFF?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF&labelColor=000000&color=000000)
