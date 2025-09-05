@@ -2,7 +2,7 @@
 
 💻 Sou *Desenvolvedor Backend Júnior em Java*, apaixonado por tecnologia e sempre em busca de aprender mais.  
 🚀 Atualmente focado em *Java, Spring Boot, APIs REST* e boas práticas de desenvolvimento.  
-📚 Também estudo *bancos de dados relacionais, **cloud computing* e ferramentas de versionamento como *Git e GitHub*.  
+📚 Também estudo *bancos de dados relacionais*, **cloud computing** e ferramentas de versionamento como *Git e GitHub*.  
 
 ## Vamos Nos Conectar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvidyalves/) 
@@ -23,7 +23,7 @@
 ![RESTful API](https://img.shields.io/badge/RESTful-FFFFFF?style=for-the-badge&logo=rest&logoColor=FFFFFF&labelColor=000000&color=000000)
 
 
-## Banco de Dados
+## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000&color=000000)
 
