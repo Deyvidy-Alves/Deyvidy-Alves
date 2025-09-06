@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Deyvidy Alves
 
-💻 Sou *Desenvolvedor Backend Júnior em Java*, apaixonado por tecnologia e sempre em busca de aprender mais.  
+💻 Sou *Desenvolvedor Backend Júnior em Java* e sempre em busca de aprender mais.  
 🚀 Atualmente focado em *Java, Spring Boot, APIs REST* e boas práticas de desenvolvimento.  
 📚 Também estudo *bancos de dados relacionais*, **cloud computing** e ferramentas de versionamento como *Git e GitHub*.  
 
