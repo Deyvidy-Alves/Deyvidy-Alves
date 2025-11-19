@@ -51,3 +51,5 @@
 ## - Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=teste-backend-jr-dEYVIDY&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/teste-backend-jr-dEYVIDY)
+
+[![Repo Card](https://github.com/Deyvidy-Alves/TodoList-Serverless-API.git_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/TodoList-Serverless-API)
