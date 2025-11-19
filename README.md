@@ -44,7 +44,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deyvidy-Alves&theme=transparent&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)
 
-## - Most Used Languagen=s
+## - Most Used Languagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidy-Alves&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
 
