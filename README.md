@@ -17,6 +17,7 @@
 ## Libraries & Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=spring&logoColor=FFFFFF&labelColor=000000&color=000000)
+![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![Hibernate](https://img.shields.io/badge/Hibernate-FFFFFF?style=for-the-badge&logo=hibernate&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![Maven](https://img.shields.io/badge/Maven-FFFFFF?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF&labelColor=000000&color=000000)
 ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=000000&color=000000)
