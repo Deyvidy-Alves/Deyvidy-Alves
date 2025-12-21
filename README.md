@@ -1,51 +1,44 @@
-# 👋 Olá, eu sou o Deyvidy Alves
+# 👋 Hello, I'm Deyvidy Alves
 
-💻 Sou *Desenvolvedor Backend Júnior em Java* e sempre em busca de aprender mais.  
-🚀 Atualmente focado em *Java, Spring Boot, APIs REST* e boas práticas de desenvolvimento.  
-📚 Também estudo *bancos de dados relacionais*, **cloud computing** e ferramentas de versionamento como *Git e GitHub*.  
+💻 I am a *Junior Java Backend Developer* always striving to learn more.  
+🚀 Currently focused on *Java, Spring Boot, REST APIs*, and development best practices.  
+📚 I am also studying *relational databases*, **cloud computing**, and version control tools like *Git and GitHub*.
 
-## Vamos Nos Conectar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvidyalves/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deyvidy-Alves)
-[![E-mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:deyvidyalvessilva@gmail.com)
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvidyalves/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deyvidy-Alves)
+[![E-mail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:deyvidyalvessilva@gmail.com)
 
-## 🚀 Primary Language
+## 🚀 Primary Languages
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000&color=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
-
-## Libraries & Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=spring&logoColor=FFFFFF&labelColor=000000&color=000000)
-![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=FFFFFF&labelColor=000000&color=000000)
-![Hibernate](https://img.shields.io/badge/Hibernate-FFFFFF?style=for-the-badge&logo=hibernate&logoColor=FFFFFF&labelColor=000000&color=000000)
-![Maven](https://img.shields.io/badge/Maven-FFFFFF?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF&labelColor=000000&color=000000)
-![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=000000&color=000000)
-![RESTful API](https://img.shields.io/badge/RESTful-FFFFFF?style=for-the-badge&logo=rest&logoColor=FFFFFF&labelColor=000000&color=000000)
-
+## Libraries, Frameworks & Runtimes
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Databases
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=000000&color=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000&color=000000)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Cloud Computing Service
-![AWS](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF&labelColor=000000&color=000000)
-![Firebase](https://img.shields.io/badge/FireBase-000?style=for-the-badge&logo=firebase&logoColor=white)
+## Cloud Computing Services
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
 
-
-## tool
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000&color=000000)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF&labelColor=000000&color=000000)
-![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=000000&color=000000)
-![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
-
+## Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 
 ## - GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deyvidy-Alves&theme=transparent&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF)
 
-## - Most Used Languagens
+## - Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidy-Alves&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
 
