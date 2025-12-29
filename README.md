@@ -1,5 +1,3 @@
-Há algo de errado com algumas funções:
-
 # 👋 Hello, I'm Deyvidy Alves
 
 💻 I am a *Junior Java Backend Developer* always striving to learn more.  
