@@ -48,4 +48,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=TodoList-Serverless-API&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/TodoList-Serverless-API)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Reminder-API&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/Reminder.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Reminder-API&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/Reminder)
