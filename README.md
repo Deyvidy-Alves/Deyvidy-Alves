@@ -42,10 +42,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidy-Alves&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF)
 
-## - Projects
+## Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=teste-backend-jr-dEYVIDY&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/teste-backend-jr-dEYVIDY)
+> 📋 **[TodoList Serverless API](https://github.com/Deyvidy-Alves/TodoList-Serverless-API)** > API Serverless focada no gerenciamento de tarefas.  
+> `Java` `AWS`
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=TodoList-Serverless-API&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/TodoList-Serverless-API)
+> 👨‍💻 **[Teste Backend Júnior](https://github.com/Deyvidy-Alves/teste-backend-jr-dEYVIDY)** > Resolução de teste técnico para vaga de desenvolvedor Backend.  
+> `Java` `Spring Boot`
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Reminder&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF)](https://github.com/Deyvidy-Alves/Reminder)
+> ⏰ **[Reminder](https://github.com/Deyvidy-Alves/Reminder)** > Sistema prático para criação e gerenciamento de lembretes.  
+> `Java` `Backend`
+
