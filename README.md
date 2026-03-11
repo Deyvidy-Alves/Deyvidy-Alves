@@ -16,8 +16,6 @@
   <a href="mailto:deyvidyalvessilva@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
 </p>
 
-<br>
-
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
