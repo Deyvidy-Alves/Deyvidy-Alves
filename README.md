@@ -19,7 +19,7 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <b>Languages & Core</b><br>
+  <b>Languages</b><br>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
@@ -27,12 +27,18 @@
 </p>
 
 <p align="center">
-  <b>Backend & Frameworks</b><br>
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=hibernate&logoColor=white">
+  <b>Backend & Architecture</b><br>
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Camel-000000?style=for-the-badge&logo=apache&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white">
+</p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 <p align="center">
@@ -45,10 +51,14 @@
 </p>
 
 <p align="center">
-  <b>Databases & Tools</b><br>
+  <b>Databases</b><br>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
+
+<p align="center">
+  <b>Tools & Quality</b><br>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white"> 
