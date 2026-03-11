@@ -30,7 +30,7 @@
   <b>Backend & Architecture</b><br>
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Camel-000000?style=for-the-badge&logo=apache&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white">
 </p>
