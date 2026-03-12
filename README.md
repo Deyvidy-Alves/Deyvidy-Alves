@@ -72,7 +72,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deyvidy-Alves&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidy-Alves&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF" height="165" alt="Top Langs" />
-  ![](https://nirzak-streak-stats.vercel.app/?user=Deyvidy-Alves&theme=dark&hide_border=false)<br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deyvidy-Alves&theme=dark&hide_border=false" height="165" alt="GitHub Streak" /><br/>
 </div>
 
 <br>
