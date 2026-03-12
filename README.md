@@ -70,9 +70,9 @@
 <h3 align="center">📊 GitHub Status</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deyvidy-Alves&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deyvidy-Alves&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&show_icons=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deyvidy-Alves&layout=compact&bg_color=000000&border_color=FF0000&title_color=FF0000&text_color=FFFFFF" height="165" alt="Top Langs" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Deyvidy-Alves&theme=dark&hide_border=false" height="165" alt="GitHub Streak" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deyvidy-Alves&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false" height="165" alt="GitHub Streak" /><br/>
 </div>
 
 <br>
