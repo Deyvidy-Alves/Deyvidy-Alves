@@ -85,9 +85,9 @@
 </div>
 <div align="center">
   <a href="https://github.com/Deyvidy-Alves/GestaoDeFrotas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=GestaoDeFrotas&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="Gestão de Frotas" /></a>
-  <a href="https://github.com/Deyvidy-Alves/origema-deyvidy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Origema&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="Origema" /></a>
+  <a href="https://github.com/Deyvidy-Alves/origema-deyvidy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=origema-deyvidy&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="Origema" /></a>
 </div>
 <div align="center">
   <a href="https://github.com/Deyvidy-Alves/Reminder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Reminder&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="Reminder" /></a>
-  <a href="https://github.com/Deyvidy-Alves/deposito-bebidas.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=deposito-bebidas&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="Depósito Bebidas" /></a>
+  <a href="https://github.com/Deyvidy-Alves/deposito-bebidas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=deposito-bebidas&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="Depósito Bebidas" /></a>
 </div>
