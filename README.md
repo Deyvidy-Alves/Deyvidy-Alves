@@ -92,5 +92,5 @@
   <a href="https://github.com/Deyvidy-Alves/deposito-bebidas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=deposito-bebidas&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&v=2" alt="Depósito Bebidas" /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/Deyvidy-Alves/Projeto-Vetorizador"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Projeto-Vetorizador&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&v=2" alt="Vetorizador" /></a>
+  <a href="https://github.com/Deyvidy-Alves/Projeto-Vetorizador"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Projeto-Vetorizador&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&v=3" alt="Vetorizador" /></a>
 </div>
