@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
   <a href="https://github.com/Deyvidy-Alves">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Deyvidy+Alves;Junior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Cloud;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
@@ -94,3 +94,4 @@
 <div align="center">
   <a href="https://github.com/Deyvidy-Alves/Projeto-Vetorizador"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Deyvidy-Alves&repo=Projeto-Vetorizador&bg_color=000000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&v=3" alt="Vetorizador" /></a>
 </div>
+**
