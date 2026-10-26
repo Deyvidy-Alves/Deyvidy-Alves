@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=F75C5C&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Deyvidy;Backend+%26+Infra+Developer;Node.js+%7C+Python+%7C+PostgreSQL;Construindo+sistemas+que+escalam" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=F75C5C&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Deyvidy;Java+%7C+Spring+Boot+Developer;Backend+%26+Infraestrutura;Construindo+sistemas+que+escalam" alt="Typing SVG" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deyvidy-Alves&color=F75C5C&style=flat-square&label=Visitas+no+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=Deyvidy-Alves&color=F75C5C&style=for-the-badge&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/Deyvidy-Alves?color=F75C5C&style=for-the-badge&label=SEGUIDORES)
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 
 </div>
 
@@ -12,22 +17,54 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor backend/infraestrutura, atualmente construindo e mantendo sistemas de processamento de dados e plataformas de inteligência para clientes governamentais. Estudante de Sistemas de Informação no IFCE, com experiência prévia em ambientes corporativos de grande escala (Java/Spring, mensageria, Kubernetes).
+Desenvolvedor backend com base sólida em **Java e Spring Boot**, hoje atuando também com infraestrutura e pipelines de dados. Estudante de Sistemas de Informação no IFCE, com experiência em ambientes corporativos de grande escala (mensageria, Kubernetes, arquiteturas distribuídas).
 
-- 🔭 Trabalho hoje com **NestJS, Python/Celery, PostgreSQL, Redis, MinIO e Docker**, orquestrando pipelines de coleta e processamento de dados
-- 🌱 Also learning: fluência em inglês e arquitetura para sistemas distribuídos
-- 💼 Também empreendo com **lojas de conveniência autônomas**, explorando como transformar isso em um produto de software
-- 🎯 Meta: atuar remotamente em um time internacional
+```java
+public class Deyvidy {
+    private String stack = "Java, Spring Boot & Backend Architecture";
+    private String[] alsoWorkingWith = {"NestJS", "Python", "Celery", "Docker"};
+    private String goal = "Remote role in an international team";
+    private boolean opennToWork = true;
+}
+```
 
 <br>
 
-## 🛠️ Stack & Ferramentas
+## 💼 Experiência
+
+```text
+2025 — atual     Backend/Infra Developer @ Agência Braspub
+                 Sistemas de processamento de dados e plataforma de
+                 inteligência para clientes governamentais
+
+2024 (4 meses)   Desenvolvedor Júnior @ Datum (alocado no Banco BV)
+                 Java, Spring Boot, SQL Server, APIs REST,
+                 Kafka, Apache Camel, Kubernetes
+```
+
+<br>
+
+## ☕ Stack principal
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+<br>
+
+## 🧰 Também trabalho com
 
 <div align="center">
 
 **Linguagens**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,9 +73,7 @@ Desenvolvedor backend/infraestrutura, atualmente construindo e mantendo sistemas
 **Backend & Arquitetura**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache_Camel-D22128?style=for-the-badge&logo=apachecamel&logoColor=white)
 
 **Frontend**
@@ -50,7 +85,6 @@ Desenvolvedor backend/infraestrutura, atualmente construindo e mantendo sistemas
 **Cloud, Infra & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -60,7 +94,6 @@ Desenvolvedor backend/infraestrutura, atualmente construindo e mantendo sistemas
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Ferramentas & Qualidade**
@@ -83,6 +116,10 @@ Desenvolvedor backend/infraestrutura, atualmente construindo e mantendo sistemas
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Deyvidy-Alves&background=0D1117&border=F75C5C&stroke=F75C5C&ring=F75C5C&fire=F75C5C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deyvidy-Alves&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </div>
 
 <br>
