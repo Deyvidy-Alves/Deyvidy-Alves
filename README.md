@@ -37,7 +37,7 @@ public class Deyvidy {
                  Sistemas de processamento de dados e plataforma de
                  inteligência para clientes governamentais
 
-2024 (4 meses)   Desenvolvedor Júnior @ Datum (alocado no Banco BV)
+2025             Desenvolvedor Júnior @ Datum (alocado no Banco BV)
                  Java, Spring Boot, SQL Server, APIs REST,
                  Kafka, Apache Camel, Kubernetes
 ```
